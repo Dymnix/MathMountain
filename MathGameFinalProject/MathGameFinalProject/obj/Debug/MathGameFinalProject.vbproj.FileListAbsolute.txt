@@ -1,0 +1,17 @@
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\bin\Debug\MathGameFinalProject.exe.config
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\bin\Debug\MathGameFinalProject.exe
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\bin\Debug\MathGameFinalProject.pdb
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\bin\Debug\MathGameFinalProject.xml
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.vbprojAssemblyReference.cache
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.EndScreen.resources
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.Game.resources
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.GameMode.resources
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.Login.resources
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.Resources.resources
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.vbproj.GenerateResource.cache
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.exe
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.xml
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.pdb
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.NewUser.resources
+C:\Users\justi\source\repos\MathGameFinalProject\MathGameFinalProject\obj\Debug\MathGameFinalProject.StartScreen.resources
